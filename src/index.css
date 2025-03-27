@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+body {
+ 
+  margin: 0;
+  overflow: hidden;
+}
+
+.rnd-item {
+  overflow: hidden;
+}
+
+video {
+  object-fit: contain;
+}
